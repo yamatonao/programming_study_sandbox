@@ -1,0 +1,5 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "/workspaces/programming_study_sandbox/rust/projects/hello_cargo"
+  ]
+}
